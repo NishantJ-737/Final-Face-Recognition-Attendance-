@@ -1,0 +1,38 @@
+[
+    {
+        "type": "title",
+        "title": "Time Settings"
+    },
+    {
+        "type": "options",
+        "title": "Entry Start Time",
+        "desc": "Choose AM or PM",
+        "section": "time_settings",
+        "key": "entry_start_time",
+        "options": ["AM", "PM"]
+    },
+    {
+        "type": "options",
+        "title": "Entry Stop Time",
+        "desc": "Choose AM or PM",
+        "section": "time_settings",
+        "key": "entry_stop_time",
+        "options": ["AM", "PM"]
+    },
+    {
+        "type": "options",
+        "title": "Exit Start Time",
+        "desc": "Choose AM or PM",
+        "section": "time_settings",
+        "key": "exit_start_time",
+        "options": ["AM", "PM"]
+    },
+    {
+        "type": "options",
+        "title": "Exit Stop Time",
+        "desc": "Choose AM or PM",
+        "section": "time_settings",
+        "key": "exit_stop_time",
+        "options": ["AM", "PM"]
+    }
+]
